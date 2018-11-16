@@ -3,7 +3,28 @@
 
 # <H3>Text Formatting Function</H3>
 
-# In[ ]:
+# In[4]:
+
+
+import pandas as pd
+import nltk
+import string
+
+
+# In[5]:
+
+
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+
+
+# In[6]:
+
+
+nltk.download('stopwords')
+
+
+# In[7]:
 
 
 # Function text_formatting - Receive a string and remove the unwanted characters, punctuation, and stop words.
@@ -40,4 +61,10 @@ def text_formatting(text_line):
     text_line = " ".join(text_line)
     
     return text_line
+
+
+# In[ ]:
+
+
+
 
