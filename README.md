@@ -10,7 +10,7 @@
 <H3>This repository contains:</H3>
   <ul>
     <li type="circle">The main py code</li>
-    <li type="circle">The <b>text_formatting</b> function imported in the main code.</li>
+    <li type="circle">The <b>txt_formatting.py</b> function imported in the main code.</li>
     <li type="circle">The airbnb_data.cvs.</li>
     <li type="circle">The airbnb_data File with all the .tsv documents.</li>
   </ul>
