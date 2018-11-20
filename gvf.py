@@ -76,11 +76,25 @@ def text_formatting(text_line):
     # Perform the stemming process.
     text_line = [ps.stem(word) for word in text_line]
 
+    # Rejoin line text  
+    text_line = " ".join(text_line)
+    
+    return text_line
+
+
+# <H3>Vocabulary Function</H3>
+
+# In[3]:
+
+
+# Create and update the vocabulary when invoked
+def add_voc(text_line):
+    text_line = text_line.split(" ")
     
     # Update the vocabulary.
     for word in set(text_line):
         vocabulary.append(word)
-
+    
     # Rejoin line text  
     text_line = " ".join(text_line)
     
