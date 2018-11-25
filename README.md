@@ -1,7 +1,7 @@
 <H1>ADM-Homework(3) / Find the perfect place to stay in Texas!</H3>
 
 <H3> In this assignment we analyze the text of Airbnb property listings and building a search engine. </H3>
-![alt text](https://cdn-images-1.medium.com/max/1600/1*yZ1LPIcXnnW6Ubmp2M-0rQ.png)
+
 <H3>Group Members :</H3>
   <ul>
     <li type="circle">Arya Farkhondeh.</li>
