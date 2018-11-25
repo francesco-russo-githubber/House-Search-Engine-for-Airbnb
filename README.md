@@ -2,6 +2,8 @@
 
 <H3> In this assignment we analyze the text of Airbnb property listings and building a search engine. </H3>
 
+![airbnb](https://user-images.githubusercontent.com/36385671/48981404-47e9b900-f0d5-11e8-9f57-2c3304f9be56.jpg)
+
 <H3>Group Members :</H3>
   <ul>
     <li type="circle">Arya Farkhondeh.</li>
