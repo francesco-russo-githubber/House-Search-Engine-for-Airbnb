@@ -1,4 +1,4 @@
-<H1>ADM-Homework(3) / Find the perfect place to stay in Texas!</H3>
+<H1>ADM Homework 3 / Find the perfect place to stay in Texas!</H3>
 
 <H3> In this assignment we analyze the text of Airbnb property listings and building a search engine. </H3>
 <br>
