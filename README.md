@@ -9,10 +9,9 @@
 <br>
 <H3>This repository contains:</H3>
   <ul>
-    <li type="circle">The main py code</li>
-    <li type="circle">The <b>gvf.py</b> (Global Variables ands Functions) imported in the main code.</li>
-    <li type="circle">The airbnb_data.cvs.</li>
-    <li type="circle">The airbnb_data File with all the .tsv documents.</li>
+    <li type="circle">The main Homework_3.py code</li>
+    <li type="circle">The <b>gvf.py</b> (Global Variables and Functions) imported in the main code.</li>
+    <li type="circle">The airbnb_data folder, with all the .tsv documents.</li>
   </ul>
 
 #
