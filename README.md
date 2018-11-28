@@ -1,6 +1,6 @@
-<H1>ADM Homework 3 / Find the perfect place to stay in Texas!</H3>
+<H1>ADM Homework 4 - Does basic house information reflect house's description?</H3>
 
-<H3> In this assignment we analyze the text of Airbnb property listings and building a search engine. </H3>
+<H3> In this assignment we will perform a clustering analysis of house announcements in Rome from Immobiliare.it. Be careful you may notice that the announcement is written in Italian. Don't worry about it, you don't need to understand what's in it. </H3>
 <br>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/36385671/48981404-47e9b900-f0d5-11e8-9f57-2c3304f9be56.jpg">
@@ -8,8 +8,8 @@
 
 <H3>Group Members :</H3>
   <ul>
-    <li type="circle">Arya Farkhondeh.</li>
-    <li type="circle">Francesco Russo.</li>
+    <li type="circle">Luca Franco.</li>
+    <li type="circle">Marco Vicentini.</li>
     <li type="circle">Massimiliano Riposati.</li>
   </ul>
 <br>
@@ -25,5 +25,5 @@
  
  <ul>
   <li type="circle">https://nbviewer.jupyter.org/github/maxriposati/ADM-HW3/blob/master/Homework_3.ipynb</li>
-  <li type="circle">https://nbviewer.jupyter.org/github/maxriposati/ADM-HW3/blob/master/map.html</li>
+  <li type="circle">links here</li>
   </ul>
